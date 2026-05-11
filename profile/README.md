@@ -5,23 +5,25 @@
 ---
 
 ### About CodingDatafy
-CodingDatafy is a professional, open-source organization dedicated to documenting the world's coding languages with precision and clarity. We provide a data-driven approach to technical documentation, ensuring developers have access to high-quality, up-to-date information.
+**CodingDatafy** is a professional, open-source organization dedicated to mapping the programming landscape with precision and clarity. We adopt a high-fidelity, data-driven approach to technical writing, ensuring that developers worldwide have access to a comprehensive, structured, and up-to-date knowledge base.
 
 ### Tech Stack & Infrastructure
-Our ecosystem is built for speed, scalability, and security:
-* **Framework:** [Next.js](https://nextjs.org/) (Static Site Generation)
-* **Deployment:** [Vercel](https://vercel.com/)
-* **Edge & DNS:** [Cloudflare](https://www.cloudflare.com/)
-* **Content:** Git-based Markdown architecture
+Our ecosystem is architected for maximum speed, global scalability, and enterprise-grade security:
+*   **Framework:** [Next.js](https://nextjs.org/) (High-performance Static Site Generation)
+*   **Deployment:** [Vercel](https://vercel.com/) (Edge-optimized delivery)
+*   **Edge & DNS:** [Cloudflare](https://www.cloudflare.com/) (Global security & performance)
+*   **Data Architecture:** Git-based Markdown system for transparent and versioned content.
 
 ### Contributions
-We follow a professional open-source workflow. Whether you are fixing a typo or adding a new language documentation, your contributions are welcome! 
+We operate with the discipline of a global organization. Whether you are correcting a syntax detail or documenting a new language, your expertise is highly valued. We follow a strict "Issue-per-Commit" workflow to maintain project integrity.
 
-* **Want to contribute?** Please read our [Contributing Guidelines](./CONTRIBUTING.md).
-* **Found a bug?** Open an [Issue](https://github.com/codingdatafy/.github/issues).
+*   **Become a Contributor:** Please review our [Contributing Guidelines](https://www.codingdatafy.com/contribute) to understand our `develop-to-main` workflow.
+*   **Report an Issue:** Help us maintain data accuracy by opening a [Formal Issue](https://github.com/codingdatafy/web/issues).
 
 ### License
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+To protect our contributors' efforts and maintain open access to information, we use a dual-licensing model:
+*   **Software & Tooling:** Licensed under the [MIT License](./LICENSE).
+*   **Technical Content:** All documentation and language references (.md files) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
-[Official Website](https://www.codingdatafy.com) • [Twitter/X](https://x.com/codingdatafy) • [Support the Project](https://wwww.codingdatafy.com/support)
+[Official Website](https://www.codingdatafy.com) • [Twitter/X](https://x.com/codingdatafy) • [Organization Roadmap](https://github.com/orgs/codingdatafy/projects)
