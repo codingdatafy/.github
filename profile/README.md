@@ -18,7 +18,7 @@ Our ecosystem is architected for maximum speed, global scalability, and enterpri
 We operate with the discipline of a global organization. Whether you are correcting a syntax detail or documenting a new language, your expertise is highly valued. We follow a strict "Issue-per-Commit" workflow to maintain project integrity.
 
 *   **Become a Contributor:** Please review our [Contributing Guidelines](https://www.codingdatafy.com/contribute) to understand our `develop-to-main` workflow.
-*   **Report an Issue:** Help us maintain data accuracy by opening a [Formal Issue](https://github.com/codingdatafy/web/issues).
+*   **Report an Issue:** Help us maintain data accuracy by opening a [Formal Issue](https://github.com/codingdatafy/content/issues).
 
 ### License
 To protect our contributors' efforts and maintain open access to information, we use a dual-licensing model:
