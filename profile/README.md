@@ -1,6 +1,6 @@
 # CodingDatafy
 
-**On a mission to build the world's largest reference and knowledge base for coding languages.**
+**On a mission to build the world's largest reference and knowledge base for coding.**
 
 ---
 
