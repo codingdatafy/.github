@@ -4,6 +4,8 @@
 
 ---
 
+[![Ko-fi Sponsor](https://img.shields.io/badge/Sponsor%20CodingDatafy-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codingdatafy)
+
 ### About CodingDatafy
 **CodingDatafy** is an open-source organization dedicated to mapping the programming landscape with ultimate precision and structural clarity. We adopt a **highly-structured data approach** to technical writing, ensuring that developers worldwide have access to a comprehensive, version-controlled knowledge base.
 
