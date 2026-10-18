@@ -1,10 +1,11 @@
 # CodingDatafy
-
 > **On a mission to build the world's largest reference and knowledge base for coding.**
 
----
+<a href="https://ko-fi.com/codingdatafy" target="_blank">
+  <img src="https://img.shields.io/badge/♥%20Sponsor%20CodingDatafy-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Sponsor CodingDatafy on Ko-fi" height="35">
+</a>
 
-[![Ko-fi Sponsor](https://img.shields.io/badge/Sponsor%20CodingDatafy-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codingdatafy)
+</div>(https://img.shields.io/badge/Sponsor%20CodingDatafy-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codingdatafy)
 
 ### About CodingDatafy
 **CodingDatafy** is an open-source organization dedicated to mapping the programming landscape with ultimate precision and structural clarity. We adopt a **highly-structured data approach** to technical writing, ensuring that developers worldwide have access to a comprehensive, version-controlled knowledge base.
@@ -36,16 +37,6 @@ We operate with the strict discipline of a global engineering team. Every commit
 To guarantee open access to information while guarding core engineering efforts, we apply a strict dual-licensing policy:
 * **Software & Tooling (`centroidium`):** Licensed under the permissive [MIT License](https://github.com/codingdatafy/.github/blob/main/LICENSE).
 * **Technical Content (`content`):** All documentation and structural data files follow the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) international license.
-
-### Support CodingDatafy
-
-Help fund high-performance edge compute, domain maintenance, and continuous developer reference content expansion.
-
-<p align="left">
-  <a href="https://ko-fi.com/codingdatafy" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Support%20CodingDatafy-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support CodingDatafy on Ko-fi" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.codingdatafy.com">Official Website</a> • 
